@@ -1,2 +1,2 @@
 # Coding for refactoring
-Collection of examples of clean code.
+Collection of examples of more readable code.
